@@ -1,0 +1,3 @@
+import kpurl
+
+kpurl.main()
