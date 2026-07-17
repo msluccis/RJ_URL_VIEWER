@@ -1,3 +1,3 @@
 import kpurl
 
-kpurl.main()
+kpurl.fetch_portal()
